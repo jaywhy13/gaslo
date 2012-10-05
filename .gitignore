@@ -5,3 +5,9 @@ deliverables
 .project
 bin
 .svn
+*.class
+
+# Package Files #
+*.jar
+*.war
+*.ear
